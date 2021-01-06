@@ -18,10 +18,6 @@ Hvor kommer du fra?
 ```
 
 
-
-
-
-
 # Gender
 
 There are two genders in Danish
@@ -390,8 +386,6 @@ I don't have any bike
 
 
 ## Ordenstal (ordinal numbers)
-
-# vocabulary
 1. første
 2. anden
 3. tredje
