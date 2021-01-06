@@ -1,7 +1,7 @@
 # Grammar
 
 # Glottal Stop
-The bit after ' is not pronounced
+The bit after ' is not pronounced.  
 The syllable before the ' is stressed 
 
 
@@ -25,8 +25,8 @@ Hvor kommer du fra?
 ```
 
 
-<br/>
-<br/>
+
+
 
 
 # Gender
@@ -51,8 +51,8 @@ Plural endings for nouns are
 |et får| a sheep| mange får| many sheep|
 
 
-<br/>
-<br/>
+
+
 
 ## Definite and Indefinite Articles
 
@@ -67,7 +67,7 @@ Plural endings for nouns are
 |Singular|en kvinde|a woman|et hus|a house|
 |Plural|nogle kvinder|some women|nogle huse|some houses|
 
-<br/>
+
 
 ### Definite
 
@@ -80,7 +80,7 @@ Plural endings for nouns are
 |Singular|kvinde-n|the woman|hus-et|the house|
 |Plural|kvinder-ne|the women|huse-ne|the houses|
 
-<br>
+
 
 #### Nouns with adjectives
 
@@ -97,7 +97,7 @@ If there's an adjective in front of the noun, you leave out the ending for the d
 - 'det' is used before nouns of the neuter gender class (t-words)
 - 'De' is used in the plural whatever the gender is
 
-<br>
+
 
 ### No Article
 
@@ -215,7 +215,7 @@ The Danish possessive adjectives in the first and second person singular agree w
 ||2. person||jeres|your(s)|
 ||3. person||deres|their(s)|
 
-<br><br>
+
 
 # this / that
 
@@ -245,7 +245,7 @@ The Danish possessive adjectives in the first and second person singular agree w
 |hvor gammel|how old|
 |hvor mange|how many|
 
-<br><br>
+
 
 # Prepositions
 
@@ -264,7 +264,7 @@ The Danish possessive adjectives in the first and second person singular agree w
 |med|with|
 |af’|of|
 
-<br><br>
+
 
 # Most important adverbs
 
@@ -278,7 +278,7 @@ The Danish possessive adjectives in the first and second person singular agree w
 |også|also|
 |tit|often|
 
-<br><br>
+
 
 # Nogen, noget, nogle (some)
 
@@ -296,7 +296,7 @@ I don't have any bike
 - jeg har ikke noget sommerhus (T-word)
 
 
-<br><br>
+
 
 # Short answers
 
@@ -317,7 +317,7 @@ I don't have any bike
 - Nej, det goer jeg ikke.
 
 
-<br><br>
+
 
 # Hej
 
@@ -327,7 +327,7 @@ I don't have any bike
 - Jeg har det godt/fint! (I'm alright)
 - Hvad med dig? (What about you?)
 
-<br><br>
+
 
 
 # Numbers
@@ -352,7 +352,7 @@ I don't have any bike
 17 sytten  
 18 atten  
 19 nitten  
-<br>
+
 20 tyve  
 21 enogtyve  
 30 tredive  
@@ -362,10 +362,10 @@ I don't have any bike
 70 halvfjerds  
 80 firs  
 90 halvfems  
-<br>
+
 100 hundrede  
 101 hundredeogen / hundredeoget  
-<br>
+
 1000000 en million  
 10.000 titusind  
 100.000 hundred tu’sind  
@@ -374,13 +374,13 @@ I don't have any bike
 1.000.000.000 en milliard / milliarder  
 2005 to tusind og fem  
 2013 to tusind og tretten  
-<br>
+
 19.5 nitten en halv  
 2.5 to en halv  
 1.5 halvanden  
 0.5 en halv  
 
-<br>
+
 
 ## How to remember the numbers
 |Number|Verbose|Comment|
@@ -430,7 +430,7 @@ I don't have any bike
 29. niogtyvende
 30. tredivte
 
-<br><br>
+
 
 # Weekdays
 - Mandag (Monday)
@@ -453,7 +453,7 @@ I don't have any bike
 - Det er onsdag i overmorgen (the day after tomorrow is wednesday)
 - I overmorgen er det onsdag (the day after tomorrow is wednesday)
 
-<br><br>
+
 
 # I eller på?
 
@@ -492,7 +492,7 @@ I don't have any bike
 - et supermarked
 
 
-<br><br>
+
 
 
 # Adjectives / Adverbs
@@ -538,7 +538,7 @@ Lille
 - små (definitive) (de små stole)
 - små (plural) (2 små stole)
 
-<br><br>
+
 
 # Apartment
 - E: i stuen
@@ -550,7 +550,7 @@ Lille
 - mf.: midt for
 - th.: til hojre
 
-<br><br>
+
 
 # Mail addresses
 . = punktum  
@@ -559,7 +559,7 @@ _ = underscore
 @ = snabel-a  
 matthias.PUNKTUM.varnholt  
 
-<br><br>
+
 
 # Family
 
@@ -590,7 +590,7 @@ Siblings
 - en storesoester
 - to storesoestre
 
-<br><br>
+
 
 # meget / mange
 
@@ -607,7 +607,7 @@ Examples:
 - Mange penge
 - Mange kursister
 
-<br><br>
+
 
 
 # Hen / henne
@@ -666,7 +666,7 @@ Examples:
 - for et øjeblik siden (a moment ago)
 - hver (every)
 
-<br><br>
+
 
 # Imperatives
 - Sov godt (Sleep well)
@@ -688,7 +688,7 @@ Examples:
 - Kom og besøg mig (Come and visit me)
 
 
-<br><br>
+
 
 # Useful expressions
 
@@ -712,7 +712,7 @@ Examples:
 - Tak for i aften! (Thanks for the evening!)
 - Tak for info! (Thanks for the information!)
 
-<br><br>
+
 
 # Times
 
@@ -725,7 +725,7 @@ Examples:
 |en time|60 minutter|
 |et døgn|24 timer|
 
-<br>
+
 
 ## Et døgn
 |Time|Range|
@@ -736,7 +736,7 @@ Examples:
 |aften|18:00 - 24:00|
 |nat|24:00 - ...|
 
-<br>
+
 
 ## Hvad er klokken? (1)
 |Time|Verbose|German (exactly the same)|
@@ -746,7 +746,7 @@ Examples:
 |08:30|Den er halv 9|Es ist halb 9|
 |08:45|Den er kvart i 9|Es ist viertel vor 9|
 
-<br>
+
 
 ## Hvad er klokken? (2)
 |Time|Verbose|German (exactly the same)|
@@ -754,7 +754,7 @@ Examples:
 |08:02|Den er 2 minutter over 8|Es ist 2 Minuten nach 8|
 |07:47|Den er 13 minutter i 8|Es ist 13 Minuten vor 8|
 
-<br>
+
 
 ## Hvad er klokken? (3)
 |Time|Verbose|German (exactly the same)|
@@ -762,7 +762,7 @@ Examples:
 |08:21|Den er 9 minutter i halv 9|Es 9 Minuten vor halb 9|
 |08:32|Den er 2 minutter over halv 9|Es ist 2 Minuten nach halb 9|
 
-<br>
+
 
 ## Digital tid
 |Time|Verbose|
@@ -773,7 +773,7 @@ Examples:
 |kl 20:09|kl. tyve nul ni|
 |kl 01:45|kl. en femogfyrre|
 
-<br>
+
 
 ## Analog tid
 |Time|Verbose|
