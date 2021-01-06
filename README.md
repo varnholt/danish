@@ -1,10 +1,3 @@
-# Grammar
-
-# Glottal Stop
-The bit after ' is not pronounced.  
-The syllable before the ' is stressed 
-
-
 # Sentence structure
 ```
 Jeg hedder Matthias  
